@@ -1,1 +1,1 @@
-# Python_awesome_projects
+# Awesome_projects
